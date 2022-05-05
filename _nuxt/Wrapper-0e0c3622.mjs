@@ -1,0 +1,1 @@
+import{_ as o,o as r,e as t,r as s}from"./entry-d77ee615.mjs";const _={},n={class:"flex-1 relative py-4"};function c(e,a){return r(),t("div",n,[s(e.$slots,"default")])}var f=o(_,[["render",c]]);export{f as _};
