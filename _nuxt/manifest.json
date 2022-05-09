@@ -1,6 +1,6 @@
 {
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "entry-81f360fd.mjs",
+    "file": "entry-74b2d315.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
@@ -16,98 +16,98 @@
       "layouts/page.vue"
     ],
     "css": [
-      "entry.223270cf.css"
+      "entry.cca8bae6.css"
     ]
   },
   "pages/about.vue": {
-    "file": "about-5dfa3204.mjs",
+    "file": "about-1b35ad25.mjs",
     "src": "pages/about.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_Wrapper-497fb749.mjs",
+      "_Wrapper-769d0245.mjs",
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   },
-  "_Wrapper-497fb749.mjs": {
-    "file": "Wrapper-497fb749.mjs",
+  "_Wrapper-769d0245.mjs": {
+    "file": "Wrapper-769d0245.mjs",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   },
   "pages/career.vue": {
-    "file": "career-5b139e00.mjs",
+    "file": "career-d954ace5.mjs",
     "src": "pages/career.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_Wrapper-497fb749.mjs",
+      "_Wrapper-769d0245.mjs",
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   },
   "pages/contact.vue": {
-    "file": "contact-7ba1f576.mjs",
+    "file": "contact-45dd38a9.mjs",
     "src": "pages/contact.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_Wrapper-497fb749.mjs",
+      "_Wrapper-769d0245.mjs",
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   },
   "pages/dashboard/index.vue": {
-    "file": "index-b1a7cbcb.mjs",
+    "file": "index-cf630d32.mjs",
     "src": "pages/dashboard/index.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_Wrapper-497fb749.mjs",
+      "_Wrapper-769d0245.mjs",
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   },
   "pages/home.vue": {
-    "file": "home-8175b3c8.mjs",
+    "file": "home-bf3d623c.mjs",
     "src": "pages/home.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_Wrapper-497fb749.mjs",
+      "_Wrapper-769d0245.mjs",
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   },
   "pages/index.vue": {
-    "file": "index-3078340e.mjs",
+    "file": "index-7ff9c52d.mjs",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_Wrapper-497fb749.mjs"
+      "_Wrapper-769d0245.mjs"
     ]
   },
   "pages/posts.vue": {
-    "file": "posts-5774ca67.mjs",
+    "file": "posts-dee72c1b.mjs",
     "src": "pages/posts.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_Wrapper-497fb749.mjs",
+      "_Wrapper-769d0245.mjs",
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   },
   "pages/services.vue": {
-    "file": "services-7e74c1d5.mjs",
+    "file": "services-1638afcd.mjs",
     "src": "pages/services.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_Wrapper-497fb749.mjs",
+      "_Wrapper-769d0245.mjs",
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   },
   "layouts/dashboard.vue": {
-    "file": "dashboard-fe8be874.mjs",
+    "file": "dashboard-448fafdd.mjs",
     "src": "layouts/dashboard.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_Footer-51d54727.mjs",
+      "_Footer-ae3c7be7.mjs",
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   },
-  "_Footer-51d54727.mjs": {
-    "file": "Footer-51d54727.mjs",
+  "_Footer-ae3c7be7.mjs": {
+    "file": "Footer-ae3c7be7.mjs",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs"
     ],
@@ -119,11 +119,11 @@
     ]
   },
   "layouts/page.vue": {
-    "file": "page-1ce1509a.mjs",
+    "file": "page-2a4d5b2c.mjs",
     "src": "layouts/page.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_Footer-51d54727.mjs",
+      "_Footer-ae3c7be7.mjs",
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   }
