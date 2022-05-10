@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/nuxt-netlify-forms-and-recaptcha/success", {data:[{}],fetch:{},mutations:void 0});

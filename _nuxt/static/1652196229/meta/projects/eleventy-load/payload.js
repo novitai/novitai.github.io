@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/meta/projects/eleventy-load", {data:[{text:"Eleventy Load"}],fetch:{},mutations:void 0});

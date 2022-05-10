@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/meta/projects/twelvety", {data:[{text:"Twelvety"}],fetch:{},mutations:void 0});
