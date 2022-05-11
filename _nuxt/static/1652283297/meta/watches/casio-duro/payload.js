@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/meta/watches/casio-duro", {data:[{text:null}],fetch:{},mutations:void 0});

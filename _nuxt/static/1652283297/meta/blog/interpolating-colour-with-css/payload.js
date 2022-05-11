@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/meta/blog/interpolating-colour-with-css", {data:[{text:"Interpolating Colour with CSS"}],fetch:{},mutations:void 0});
