@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/meta/projects/university-of-sheffield-brass-band", {data:[{text:"University of Sheffield Brass Band"}],fetch:{},mutations:void 0});

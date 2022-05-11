@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/meta/projects/festimap", {data:[{text:"Festimap"}],fetch:{},mutations:void 0});
