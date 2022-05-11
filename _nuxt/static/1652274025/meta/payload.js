@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/meta", {data:[{text:null}],fetch:{},mutations:void 0});

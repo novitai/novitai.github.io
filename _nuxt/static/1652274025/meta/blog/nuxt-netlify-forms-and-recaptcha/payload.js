@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/meta/blog/nuxt-netlify-forms-and-recaptcha", {data:[{text:"Nuxt, Netlify Forms and reCAPTCHA"}],fetch:{},mutations:void 0});
