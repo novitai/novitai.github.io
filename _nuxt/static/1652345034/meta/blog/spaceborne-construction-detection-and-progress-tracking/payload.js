@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/meta/blog/spaceborne-construction-detection-and-progress-tracking", {data:[{text:"Spaceborne Construction Detection and Progress Tracking"}],fetch:{},mutations:void 0});
