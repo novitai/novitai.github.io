@@ -1,0 +1,1 @@
+window.__NUXT__={staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1654188972",layout:"default",error:{statusCode:404,message:"This post could not be found"},serverRendered:false,routePath:"\u002Fblog\u002Fnuxt-netlify-forms-and-recaptcha\u002F",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:null}}};
