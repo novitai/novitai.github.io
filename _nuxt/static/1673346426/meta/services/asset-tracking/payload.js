@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/meta/services/asset-tracking", {data:[{text:"Asset Tracking"}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/meta/services/oil-gas-transport", {data:[{text:"Oil & Gas Transport Analytics"}],fetch:{},mutations:void 0});

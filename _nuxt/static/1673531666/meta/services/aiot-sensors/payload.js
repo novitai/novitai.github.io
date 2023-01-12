@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/meta/services/aiot-sensors", {data:[{text:"AIoT Deployment"}],fetch:{},mutations:void 0});

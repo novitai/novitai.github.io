@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/meta/services/geospatial-analytics", {data:[{text:"Geospatial Analytics"}],fetch:{},mutations:void 0});

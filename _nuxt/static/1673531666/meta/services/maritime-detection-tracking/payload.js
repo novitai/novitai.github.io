@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/meta/services/maritime-detection-tracking", {data:[{text:"Maritime Detection and Tracking"}],fetch:{},mutations:void 0});
