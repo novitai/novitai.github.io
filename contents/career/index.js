@@ -24,8 +24,6 @@ export async function careerLoader(careerSlug) {
 }
 
 export const careerSlugs = [
-'edge-ai',
+'embedded-software-engineer',
 'senior-robotics-eng',
-'software-engineer',
-'embedded-software-engineerg',
 ]
