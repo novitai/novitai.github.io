@@ -27,4 +27,5 @@ export const careerSlugs = [
 'edge-ai',
 'senior-robotics-eng',
 'software-engineer',
+'senior-robotics-eng',
 ]
