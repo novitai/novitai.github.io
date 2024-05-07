@@ -3,7 +3,7 @@ title: "Embedded Software Engineer"
 description: "As a Embedded Software engineer, you will be bringing together hardware and software for our state of the art edge AI systems deployed in four continents. This role involves on-site attendance. (ODTU Teknokent, Ankara)"
 date: 2024-03-06 15:10:00 -0000
 background: '/img/posts/05.jpg'
-applyLink: 'https://forms.gle/9BUkKZjWQ7TN5376A'
+# applyLink: 'https://forms.gle/9BUkKZjWQ7TN5376A'
 ---
 
 ## A little about us
