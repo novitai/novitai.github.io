@@ -12,6 +12,4 @@
 
 <a href=https://www.linkedin.com/in/mfurkanzenbilci/ target=_blank>Musa Furkan Zenbilci - Junior ML Engineer </a>
 
-<a href=https://www.linkedin.com/in/elif-eylem-d-899aa61bb/ target=_blank>Elif Doğanay - Operations Lead </a>
-
 <a href=https://www.linkedin.com/in/alper-ocak-148098235/ target=_blank>Alper Ocak - Operations Associate </a>
