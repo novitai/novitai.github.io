@@ -4,6 +4,4 @@
 
 ## Ankara
 
-[ODTÜ Teknokent Gümüş Blok ZK-4, Ankara 06800](https://www.google.com/maps/search/ODT%C3%9C+Teknokent+G%C3%BCm%C3%BC%C5%9F+Blok+ZK-4,+Ankara+06800/@39.8993008,32.7740463,18.65z)
-
-
+[ODTÜ Teknokent Silikon Blok ZK-7, Ankara 06800](https://maps.app.goo.gl/MYNaegtvavi5oH777)
