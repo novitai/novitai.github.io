@@ -38,4 +38,6 @@ We have pioneered the use of <b>artificial intelligence</b> to solve problems th
 
 <a href=https://www.linkedin.com/in/osman-semih-tiryaki-373538233/ target=_blank>Osman Semih Tiryaki - Junior ML Engineer </a>
 
+<a href=https://www.linkedin.com/in/levent-gungen/ target=_blank>Levent Berk Güngen - Junior Software Engineer </a>
+
 </div>
