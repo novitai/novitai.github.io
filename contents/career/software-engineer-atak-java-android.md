@@ -1,9 +1,9 @@
 ---
 title: "Software Engineer (ATAK, Java, Android)"
 description: "As a Novit Software Engineer, you will be a core member of the team in developing Android/ATAK integrations for our system processing spaceborne image and radar data, triggering robotic actions. The ideal candidate would be passionate about creating intelligent products never seen elsewhere before. You must be a team player and deeply interested in learning new techologies and self-improving to succeed in this role. This role involves on-site attendance. (ODTU Teknokent, Ankara)"
-date: 2024-10-17 11:46:00 -0000
+date: 2024-10-24 17:54:00 -0000
 background: '/img/posts/05.jpg'
-applyLink: "https://forms.gle/z4wRAxefhKX74Gtg8"
+applyLink: "https://forms.gle/PXPQ8wcM7ywe99uCA"
 ---
 
 ## A little about us
