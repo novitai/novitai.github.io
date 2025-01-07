@@ -24,15 +24,11 @@ We have pioneered the use of <b>artificial intelligence</b> to solve problems th
 
 <a href=https://uk.linkedin.com/in/sarpulas target=_blank>Sarp Ulaş Ocak - CEO </a>
 
-<a href=https://www.linkedin.com/in/furkanaldemir target=_blank>Furkan Aldemir - Team Lead </a>
-
 <a href=https://www.linkedin.com/in/berkaykarlik target=_blank>Berkay Karlık - Machine Learning Engineer </a>
 
 <a href=https://www.linkedin.com/in/goozg-61b070a9/ target=_blank>Göksel Özgür - Full Stack Engineer </a>
 
 <a href=https://tr.linkedin.com/in/mehmet-emre-bozkurt-657553131 target=_blank>Mehmet Emre Bozkurt - Machine Learning Engineer </a>
-
-<a href=https://www.linkedin.com/in/dora-tutuncu-9698b2189/ target=_blank>Dora Tütüncü - Machine Learning Engineer </a>
 
 <a href=https://www.linkedin.com/in/osman-semih-tiryaki-373538233/ target=_blank>Osman Semih Tiryaki - Machine Learning Engineer </a>
 
