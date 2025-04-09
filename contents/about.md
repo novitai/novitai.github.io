@@ -36,4 +36,6 @@ We have pioneered the use of <b>artificial intelligence</b> to solve problems th
 
 Nida Aykut - Junior Software Engineer <!-- Does not prefer to share LinkedIn page yet -->
 
+Deniz Aytemiz - Junior Machine Learning Engineer <!-- Will link the LinkedIn page here -->
+
 </div>
